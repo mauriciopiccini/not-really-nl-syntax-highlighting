@@ -1,6 +1,6 @@
 import { EditorView, ViewUpdate, Decoration, DecorationSet, ViewPlugin } from "@codemirror/view";
-import nlp from "compromise";
-import CompromiseView from "compromise/types/view/one";
+import nlp from "pt-compromise";
+import CompromiseView from "pt-compromise/types/view/one";
 import NLSyntaxHighlightPlugin from "main";
 
 
